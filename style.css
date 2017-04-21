@@ -1,0 +1,12 @@
+body {
+background-color: lightblue;
+    text-align: center;
+}
+.logo {
+    text-align: right;
+}
+#mes_photos img
+{
+    border: 1px solid black;
+    margin-right: 2px;
+}
